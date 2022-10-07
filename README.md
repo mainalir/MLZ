@@ -1,2 +1,2 @@
 # MLZ
-Machine learning Metallicity
+Machine learning Metallicity is an ML based method to predict gas-phase metallicity of galaxies using various emission line measurements as inputs. The models are trained using dataset of nearby galaxies, and features are carefully selected such that they find applicability even at high redshift. We used Scikit-learn Python package to build our models. More detail of the model can be found in Mainali et al. 2022.
